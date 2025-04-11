@@ -1,2 +1,2 @@
-# HTML-Injection
-An attempt to inject a custom font into code.org for some project that isnt this serious.
+# Standard Galactic Translator
+A thing for a project that probably wont get used
